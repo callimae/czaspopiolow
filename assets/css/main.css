@@ -296,6 +296,17 @@ h1 {
   font-weight: bold;
 }
 
+.comments {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.comments h2 {
+  margin: 0 0 1rem;
+  font-size: 1.375rem;
+}
+
 .footnotes {
   margin-top: 3rem;
   color: var(--text-muted);

@@ -63,6 +63,9 @@
       } else {
         localStorage.setItem('theme', next);
       }
+      /* Zsynchronizuj motyw komentarzy giscus, jeśli są na stronie. */
+      var frame = document.querySelector('iframe.giscus-frame');
+      if (frame) frame.contentWindow.postMessage({ giscus: { setConfig: { theme: next } } }, 'https://giscus.app');
     });
   </script>
 </body>

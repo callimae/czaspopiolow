@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+defaultContentLanguage = 'pl'
+title = 'Czas popiołów'
+
+disableKinds = ['taxonomy', 'term']
+summaryLength = 25
+
+[params]
+description = 'Blog o psychologii straty i mechanizmach radzenia sobie — pisany z perspektywy kogoś, kto przez to przeszedł.'
+
+[languages.pl]
+locale = 'pl-PL'
+label = 'Polski'
+weight = 1
+
+[languages.en]
+locale = 'en-US'
+label = 'English'
+weight = 2
+
+[pagination]
+pagerSize = 10
+
+[markup.goldmark.extensions.typographer]
+leftDoubleQuote = '&bdquo;'
+rightDoubleQuote = '&rdquo;'
+leftSingleQuote = '&sbquo;'
+rightSingleQuote = '&rsquo;'

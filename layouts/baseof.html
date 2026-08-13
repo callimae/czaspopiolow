@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="{{ site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} — {{ site.Title }}{{ end }}</title>
+  {{ $desc := .Description | default (site.Params.description) }}
+  {{ if .IsPage }}{{ $desc = .Description | default (.Summary | plainify) }}{{ end }}
+  {{ $desc = $desc | strings.TrimSpace }}
+  <meta name="description" content="{{ $desc }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  {{ with site.Home.OutputFormats.Get "rss" }}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .RelPermalink }}">
+  {{ end }}
+  <script>
+    /* Przed pierwszym malowaniem strony — inaczej mignąłby jasny motyw. */
+    (function () {
+      var t = localStorage.getItem('theme');
+      if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t;
+    })();
+  </script>
+  {{ with resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+    <nav class="site-nav">
+      <a href="{{ site.Home.RelPermalink }}">{{ i18n "posts" }}</a>
+      {{ with site.GetPage "/narzedzia" }}<a href="{{ .RelPermalink }}">{{ i18n "tools" }}</a>{{ end }}
+      {{ with site.GetPage "/o-blogu" }}<a href="{{ .RelPermalink }}">{{ i18n "about" }}</a>{{ end }}
+      {{ range .Translations }}
+      <a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}">{{ .Language.Label }}</a>
+      {{ end }}
+    </nav>
+    <button class="theme-toggle" aria-label="{{ i18n "themeToggle" }}" title="{{ i18n "themeToggle" }}">◐</button>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <p>© {{ now.Year }} {{ site.Title }}</p>
+  </footer>
+  <script>
+    document.querySelector('.theme-toggle').addEventListener('click', function () {
+      var root = document.documentElement;
+      var systemDark = matchMedia('(prefers-color-scheme: dark)').matches;
+      var current = root.dataset.theme || (systemDark ? 'dark' : 'light');
+      var next = current === 'dark' ? 'light' : 'dark';
+      root.dataset.theme = next;
+      /* Wybór zgodny z systemem = wracamy do trybu automatycznego. */
+      if ((next === 'dark') === systemDark) {
+        delete root.dataset.theme;
+        localStorage.removeItem('theme');
+      } else {
+        localStorage.setItem('theme', next);
+      }
+    });
+  </script>
+</body>
+</html>

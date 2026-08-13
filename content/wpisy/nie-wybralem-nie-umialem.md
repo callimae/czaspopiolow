@@ -13,21 +13,21 @@ Tylko czym właściwie jest ta wina? Wina zakłada kontrolę — umysł ją lubi
 
 Po lekturze Viktora Frankla "Człowiek w poszukiwaniu sensu" zacząłem rozróżniać trzy rzeczy.
 
-Pierwsza to wina realna.
+Pierwsza to **wina realna**.
 
 Załóżmy, że powiedziałem komuś coś przykrego i od razu, czy po krótkiej chwili odzywa się we mnie sumienie. "Nie powinienem tak powiedzieć". To jest ten moment, kiedy mogę realnie podjąć działanie i coś naprawić — na przykład szczerze przeprosić. Czy mam w tym rację? Może tak, może nie. Sumienie działa zgodnie z moimi wartościami i na nie reaguje. Często to jedyny dostępny drogowskaz.
 
-Druga rzecz to wina bez wyboru.
+Druga rzecz to **wina bez wyboru**.
 
 Nie zrobiłem czegoś dobrze. Postąpiłem niezgodnie ze swoimi wartościami. Ale w tamtym momencie nie miałem żadnych narzędzi, żeby wiedzieć lepiej.
 
-Nie wybrałem — nie umiałem inaczej.
+**Nie wybrałem — nie umiałem inaczej.**
 
 Przeszłość już się wydarzyła, a ja zyskałem pewną informację i świadomość. Dzięki temu mogę postąpić inaczej w przyszłości, dostałem jakiś kierunek. Realna wina domaga się naprawy, ta druga — nauki. Nie postąpiłem zgodnie ze sobą w przeszłości, ale mogę postąpić właściwie przy najbliższej okazji.
 
-W końcu trzecia to wina, pod którą tak naprawdę kryje się bezradność.
+W końcu trzecia to wina, pod którą tak naprawdę kryje się **bezradność**.
 
-Pozornie przypomina tę drugą, ale w rzeczywistości nie daje nam żadnych odpowiedzi. Umysł woli poczucie winy, bo daje mu ono namiastkę kontroli. Bezradność zakłada, że nie było żadnej kontroli, a to ciężki materiał do zaakceptowania. Co jest charakterystyczne dla tego stanu? Poczucie winy bez jasnego dowodu.
+Pozornie przypomina tę drugą, ale w rzeczywistości nie daje nam żadnych odpowiedzi. Umysł woli poczucie winy, bo daje mu ono namiastkę kontroli. Bezradność zakłada, że nie było żadnej kontroli, a to ciężki materiał do zaakceptowania. Co jest charakterystyczne dla tego stanu? **Poczucie winy bez jasnego dowodu.**
 
 Oczywiście, dowód szybko się pojawi — umysł jest w tym naprawdę dobry. Znajdzie nie jeden, ale dziesiątki, a nawet setki dowodów i wszystkie bezbłędnie dostarczy. Jeśli jeden dowód zostanie rozbrojony, poda kolejny. I kolejny. I jeszcze jeden. Jest jak kat, który wymierza karę. Powody się nie skończą i łatwo wtedy utknąć w pętli własnych myśli oraz w przytłaczającym poczuciu beznadziei. Stamtąd nie ma racjonalnego wyjścia ani jednoznacznej odpowiedzi. Skoro materiał zawsze się znajdzie, to jaki to dowód? Nie wychodzi się stąd poprzez rozstrzyganie zarzutów, tylko poprzez powrót do rzeczywistości — do tego, co aktualnie robimy.
 
@@ -37,4 +37,4 @@ Czy zrobiłem coś źle?
 
 Ale przede wszystkim:
 
-Czy mogłem wtedy postąpić inaczej, czy po prostu nie umiałem?
+**Czy mogłem wtedy postąpić inaczej, czy po prostu nie umiałem?**

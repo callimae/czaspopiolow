@@ -5,6 +5,7 @@
     <h2 class="post-item-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <time class="post-item-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
     <p class="post-item-summary">{{ .Summary | plainify }}</p>
+    <a class="post-item-more" href="{{ .RelPermalink }}">{{ i18n "readMore" }} →</a>
   </li>
   {{ end }}
 </ul>

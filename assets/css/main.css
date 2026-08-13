@@ -150,6 +150,12 @@ h1, h2, h3 {
   margin: 0.5rem 0 0;
 }
 
+.post-item-more {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.9375rem;
+}
+
 /* ===== Pojedynczy wpis ===== */
 .post-header {
   margin-bottom: 2.5rem;

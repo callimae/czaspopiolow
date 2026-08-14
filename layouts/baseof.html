@@ -53,6 +53,9 @@
   <footer class="site-footer">
     <p>© {{ now.Year }} {{ site.Title }}</p>
   </footer>
+  {{ if hugo.IsProduction }}
+  <script data-goatcounter="https://callimae.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  {{ end }}
   <script>
     document.querySelector('.theme-toggle').addEventListener('click', function () {
       var root = document.documentElement;

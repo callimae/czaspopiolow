@@ -249,6 +249,12 @@ h1 {
   margin-bottom: 3rem;
 }
 
+/* Tytuł bez daty (o blogu, narzędzia, listy) — ten sam odstęp do treści */
+.post-header:not(:has(time)),
+main > h1 {
+  margin-bottom: 1.5rem;
+}
+
 .post-header time {
   display: block;
   margin-top: 0.75rem;

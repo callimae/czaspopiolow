@@ -37,6 +37,7 @@
     <a class="site-title" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
     <nav class="site-nav">
       <a href="{{ site.Home.RelPermalink }}">{{ i18n "posts" }}</a>
+      {{ with site.GetPage "/mysli" }}<a href="{{ .RelPermalink }}">{{ i18n "thoughts" }}</a>{{ end }}
       {{ with site.GetPage "/mechanizmy" }}<a href="{{ .RelPermalink }}">{{ i18n "mechanisms" }}</a>{{ end }}
       {{ with site.GetPage "/narzedzia" }}<a href="{{ .RelPermalink }}">{{ i18n "tools" }}</a>{{ end }}
       {{ with site.GetPage "/o-blogu" }}<a href="{{ .RelPermalink }}">{{ i18n "about" }}</a>{{ end }}

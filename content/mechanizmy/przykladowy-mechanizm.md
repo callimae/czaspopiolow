@@ -1,5 +1,5 @@
 ---
-title: "Przykładowy mechanizm"
+title: "Efekt Zeigarnik"
 draft: true
 ---
 

@@ -10,9 +10,13 @@ W innych postach opiszę różne warianty tej techniki, które wyprowadziłem po
 
 U Harrisa są trzy kroki. Ja rozbiłem pierwszy na dwa, bo to dwie różne operacje. Tak powstała ZONA: Zauważ, Oddal się, Nawiąż kontakt z ciałem, Angażuj się. To ta sama technika, tylko z jednym dodatkowym krokiem i przedstawiona trochę inaczej.
 
-**Zauważ.** Zwróć uwagę na to, co ci teraz gra w głowie. "Nie nadaję się do związków." "Wszystko zepsułem." "Jestem beznadziejny." To ten rodzaj myśli, które pojawiają się jako dźwięk w głowie - zdanie, ale może to być też obraz: wspomnienie albo wyobrażenie przyszłości. Pierwszy krok za nami.
+## Zauważ
 
-**Oddal się.** To jak zrobienie kroku w tył lub w bok i spojrzenie na myśl z odległości. "Mam taką myśl, że nie nadaję się do związków." "Mam taką myśl, że wszystko zepsułem." "Mam taką myśl, że jestem beznadziejny."
+Zwróć uwagę na to, co ci teraz gra w głowie. "Nie nadaję się do związków." "Wszystko zepsułem." "Jestem beznadziejny." To ten rodzaj myśli, które pojawiają się jako dźwięk w głowie - zdanie, ale może to być też obraz: wspomnienie albo wyobrażenie przyszłości. Pierwszy krok za nami.
+
+## Oddal się
+
+To jak zrobienie kroku w tył lub w bok i spojrzenie na myśl z odległości. "Mam taką myśl, że nie nadaję się do związków." "Mam taką myśl, że wszystko zepsułem." "Mam taką myśl, że jestem beznadziejny."
 
 To nie jest skończona forma - wybierz swoją: "Zauważam taką myśl, że…", "Widzę taką myśl, że…", albo stwórz własną. Pobaw się językiem. Do obrazów w głowie lepiej pasuje "widzę taką myśl" albo "widzę takie wspomnienie" - bo obrazu się nie słyszy.
 
@@ -20,9 +24,13 @@ Na moment ściągnę twoją uwagę w to miejsce. Zanim przejdę dalej - nie pomi
 
 Twoja uwaga jest paliwem - skierowana na treść, trenuje ją, wzmacnia. Więcej o tym w tekście [„Efekt białego niedźwiedzia"]({{< relref "/mechanizmy/efekt-bialego-niedzwiedzia" >}}) w dziale mechanizmy. W skrócie: nabywasz teraz nową umiejętność. Bez tego kroku zlewasz się z tym, co już masz, tylko mocniej. Nie po to tu jesteś.
 
-**Nawiąż kontakt z ciałem.** Zauważyłeś już myśl i oddaliłeś się od niej. Gdzie to teraz czujesz w ciele? Ściska cię w żołądku? W gardle? Czujesz przepływ gorąca albo zimna - i gdzie: głowa, kark, całe ciało? W tym kroku szukasz, gdzie emocja siedzi i jak się objawia. Tylko szukasz. Przenieś tam uwagę.
+## Nawiąż kontakt z ciałem
 
-**Angażuj się.** Będąc z bólem, cierpieniem czy stratą, zwróć uwagę na swoje ciało. Wyprostuj się na krześle, zmień pozycję w łóżku, zmień cokolwiek w swojej fizycznej postawie - cokolwiek, co pozwoli ci tę zmianę poczuć. Machnij ręką, zwróć uwagę na otaczające cię przedmioty albo na dźwięki świata - śpiew ptaków, kosiarkę, wszystko, co jest w twoim zasięgu. Może metka koszulki cię uwiera? Jeśli nie - czy potrafisz poczuć całą koszulkę, która dotyka twojego ciała? Jak leży na tobie, jej materiał. Albo wciśnij stopy w podłogę. Może nawet wszystko naraz. Każdy chwyt dozwolony.
+Zauważyłeś już myśl i oddaliłeś się od niej. Gdzie to teraz czujesz w ciele? Ściska cię w żołądku? W gardle? Czujesz przepływ gorąca albo zimna - i gdzie: głowa, kark, całe ciało? W tym kroku szukasz, gdzie emocja siedzi i jak się objawia. Tylko szukasz. Przenieś tam uwagę.
+
+## Angażuj się
+
+Będąc z bólem, cierpieniem czy stratą, zwróć uwagę na swoje ciało. Wyprostuj się na krześle, zmień pozycję w łóżku, zmień cokolwiek w swojej fizycznej postawie - cokolwiek, co pozwoli ci tę zmianę poczuć. Machnij ręką, zwróć uwagę na otaczające cię przedmioty albo na dźwięki świata - śpiew ptaków, kosiarkę, wszystko, co jest w twoim zasięgu. Może metka koszulki cię uwiera? Jeśli nie - czy potrafisz poczuć całą koszulkę, która dotyka twojego ciała? Jak leży na tobie, jej materiał. Albo wciśnij stopy w podłogę. Może nawet wszystko naraz. Każdy chwyt dozwolony.
 
 Rozumiem, że nie chcesz. Czegokolwiek. Zrób z niechęcią. Nawiąż kontakt z rzeczywistością. Jeśli coś robiłeś - wróć do tego. Nadal boli, ale wciąż masz swoje ręce, nogi, głowę i korpus.
 

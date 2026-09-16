@@ -6,13 +6,15 @@ Can you, just for a moment, not imagine a white bear? And honestly - didn't it a
 
 Almost everyone thinks of it. And why did I mention the swap? In the late 1980s Daniel Wegner ran an experiment that sheds some light on this mechanism. I'll give a summary, without the numbers - the bibliography points to the original.
 
+## The experiments
+
 Two experiments, two phases. A phase of suppressing the thought, and a phase of thinking about the white bear.
 
 In the first experiment, two groups - one starts with suppression, the other with thinking; in the second phase they switch.
 
 In the second experiment, the same phases, but with an extra group given a condition: if you think of a white bear, think of a red Volkswagen. Same order: suppression first, then thinking. At every stage of both experiments each participant spoke their thoughts out loud (a stream of consciousness) and rang a bell whenever a thought of a white bear showed up.
 
-What came out?
+## What came out?
 
 In the first phase of the first experiment, the suppression group rang the bell anyway, despite the ban. And in the second phase? Even more interesting. The group that had started with suppression rang more often than the one that had started with thinking. This is called the **rebound effect** - suppressed thoughts come back more often.
 
@@ -22,7 +24,7 @@ So why is suppression alone so ineffective? If we try not to think about the bea
 
 It's worth noticing here that both the white bear and the distractor are thoughts that don't really carry an emotional charge. When we are in crisis, simply replacing one thought with another may just not help.
 
-What follows is my own extension.
+## My extension
 
 Suppression rarely stays inside the head. We can suppress thoughts in different ways - watching TV, reaching for alcohol or other substances. The imagined car costs nothing, the TV not much, though the pushed-away image or thought comes back anyway. Alcohol doesn't remove the problem, it only pushes it away in time, with extra consequences. It disrupts sleep, during which memories "settle" in the head (emotional consolidation). Alcohol slows that process down. On top of that, it's a depressant, so we risk not only an extra rebound effect but also a strengthening of the difficult thoughts.
 

@@ -10,7 +10,7 @@
     {{ .Content }}
   </div>
 </article>
-{{ if eq .Section "wpisy" }}
+{{ if in (slice "wpisy" "mechanizmy" "narzedzia") .Section }}
 <section class="comments">
   <h2>{{ i18n "comments" }}</h2>
   <div id="giscus-container"></div>

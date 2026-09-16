@@ -1,0 +1,15 @@
+{{- /* Obrazek z katalogu wpisu: automatyczne zmniejszenie i wymiary.
+       Obrazek spoza (np. /static): wstawiony jak jest. */ -}}
+{{- $img := .PageInner.Resources.Get .Destination -}}
+{{- if $img -}}
+  {{- if gt $img.Width 1400 -}}{{- $img = $img.Resize "1400x q85" -}}{{- end -}}
+  <figure>
+    <img src="{{ $img.RelPermalink }}" alt="{{ .Text }}" width="{{ $img.Width }}" height="{{ $img.Height }}" loading="lazy">
+    {{- with .Title }}<figcaption>{{ . }}</figcaption>{{ end -}}
+  </figure>
+{{- else -}}
+  <figure>
+    <img src="{{ .Destination | relURL }}" alt="{{ .Text }}" loading="lazy">
+    {{- with .Title }}<figcaption>{{ . }}</figcaption>{{ end -}}
+  </figure>
+{{- end -}}

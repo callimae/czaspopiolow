@@ -1,5 +1,6 @@
 ---
-title: "NOTE — the anchoring technique"
+title: "How to stop fighting your own thoughts. NOTE — the anchoring technique"
+description: "A simple technique for intrusive thoughts and rumination: four steps to stop fighting your thoughts and come back to reality. Anchoring, from ACT."
 ---
 
 This is one of the simplest techniques I know, and the one that did the most for me. Before I lay it out, a short word so you don't build yourself false hope. This technique doesn't make emotions disappear. It doesn't make loss stop hurting, or make you stop suffering. Physical pain is another story, though the technique holds there too. So what's it for?

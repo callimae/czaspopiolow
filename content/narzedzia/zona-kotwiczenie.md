@@ -1,5 +1,6 @@
 ---
-title: "ZONA - technika kotwiczenia"
+title: "Jak przestać walczyć z własnymi myślami. ZONA - technika kotwiczenia"
+description: "Prosta technika na natrętne myśli i rozpamiętywanie: cztery kroki, żeby przestać walczyć z myślami i wrócić do rzeczywistości. Kotwiczenie z ACT."
 ---
 
 To jedna z najprostszych technik, jakie znam, i ta, która u mnie zrobiła najwięcej. Zanim ją rozpiszę, krótkie słowo wstępu, żeby nie budować sobie fałszywej nadziei. Ta technika nie sprawia, że emocje znikają. Nie sprawia, że strata przestaje boleć, ani że przestaniesz cierpieć. Ból fizyczny to inna historia, chociaż technika i tu się trzyma. W takim razie po co?

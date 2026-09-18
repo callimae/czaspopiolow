@@ -1,6 +1,7 @@
 ---
 title: "Nie wybrałem — nie umiałem"
 date: 2026-08-13
+description: "O poczuciu winy po rozstaniu i stracie: czym różni się wina realna od winy bez wyboru - i od bezradności, która udaje winę."
 ---
 
 Rozmawiałem z przyjacielem przez telefon, a było mi wtedy okrutnie ciężko. Życie wywróciło mi się do góry nogami. Opowiadałem mu o swoich trudnościach, problemach, o tym, jak do wszystkiego się zmuszam. Generalnie o tym, że wszystko ssie.

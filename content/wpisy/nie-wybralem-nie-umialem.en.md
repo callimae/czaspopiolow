@@ -1,6 +1,7 @@
 ---
 title: "I didn't choose — I didn't know how"
 date: 2026-08-13
+description: "On guilt after a breakup or loss: how real guilt differs from guilt without choice - and from helplessness dressed up as guilt."
 ---
 
 I was talking with a friend on the phone, and I was going through a brutally hard time. My life had been turned upside down. I told him about my difficulties, my problems, about how I had to force myself to do everything. Basically, about how everything sucked.

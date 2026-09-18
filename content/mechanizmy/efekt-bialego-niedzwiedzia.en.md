@@ -1,5 +1,6 @@
 ---
-title: "The white bear effect"
+title: "Why you can't stop thinking about something. The white bear effect"
+description: "On intrusive thoughts you can't switch off: why thought suppression backfires, and what Wegner's white bear experiment showed."
 ---
 
 Can you, just for a moment, not imagine a white bear? And honestly - didn't it appear in your head for at least a fraction of a second, before you decided to get clever and swap it for something else?
@@ -20,7 +21,9 @@ In the first phase of the first experiment, the suppression group rang the bell 
 
 In the second experiment, the surprise was that the distractor didn't help during the suppression phase. Its effect showed up only in the second phase: the distractor group showed no rebound.
 
-So why is suppression alone so ineffective? If we try not to think about the bear, we search for everything that is not-the-bear - and that in itself keeps bringing us back to the bear. A vicious circle appears too, because to check whether we are not thinking a thought, we have to think it. The car distractor doesn't stop that circle, but it gives a concrete foothold for later and protects against the rebound.
+## Why doesn't suppression work?
+
+If we try not to think about the bear, we search for everything that is not-the-bear - and that in itself keeps bringing us back to the bear. A vicious circle appears too, because to check whether we are not thinking a thought, we have to think it. The car distractor doesn't stop that circle, but it gives a concrete foothold for later and protects against the rebound.
 
 It's worth noticing here that both the white bear and the distractor are thoughts that don't really carry an emotional charge. When we are in crisis, simply replacing one thought with another may just not help.
 

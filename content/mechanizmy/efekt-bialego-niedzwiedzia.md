@@ -1,5 +1,6 @@
 ---
-title: "Efekt białego niedźwiedzia"
+title: "Dlaczego nie da się przestać o czymś myśleć. Efekt białego niedźwiedzia"
+description: "O natrętnych myślach, których nie da się wyłączyć: dlaczego tłumienie myśli nie działa i co pokazał eksperyment Wegnera z białym niedźwiedziem."
 ---
 
 Czy możesz przez moment nie wyobrażać sobie białego niedźwiedzia? I czy naprawdę przez chociażby ułamek sekundy, nie pojawił się w Twojej głowie, zanim postanowiłeś być sprytnym, i podmienić go na coś innego?
@@ -20,7 +21,9 @@ W pierwszej fazie pierwszego eksperymentu grupa tłumiąca i tak dzwoniła, pomi
 
 Z kolei w drugim eksperymencie zaskakujące było to, że dystraktor nie pomógł w fazie tłumienia. Jego efekt ujawnił się dopiero w drugiej fazie: grupa z rozpraszaczem nie wykazała odbicia.
 
-Dlaczego więc samo tłumienie jest tak nieskuteczne? Jeśli próbujemy nie myśleć o niedźwiedziu, szukamy wszystkiego, co nie-jest-niedźwiedziem - a to samo w sobie sprawia, że do niedźwiedzia wracamy. Pojawia się też błędne koło, bo żeby sprawdzić, czy nie myślimy o myśli, musimy o niej pomyśleć. Dystraktor w postaci samochodu nie zatrzymuje tego błędnego koła, ale daje konkretny punkt podparcia na później i chroni przed odbiciem.
+## Dlaczego tłumienie nie działa?
+
+Jeśli próbujemy nie myśleć o niedźwiedziu, szukamy wszystkiego, co nie-jest-niedźwiedziem - a to samo w sobie sprawia, że do niedźwiedzia wracamy. Pojawia się też błędne koło, bo żeby sprawdzić, czy nie myślimy o myśli, musimy o niej pomyśleć. Dystraktor w postaci samochodu nie zatrzymuje tego błędnego koła, ale daje konkretny punkt podparcia na później i chroni przed odbiciem.
 
 Tutaj warto zauważyć, że zarówno biały niedźwiedź, jak i dystraktor, to myśli, które raczej nie noszą ładunku emocjonalnego. Kiedy przeżywamy kryzys, zwykłe zastąpienie myśli inną myślą może zwyczajnie nie pomóc.
 

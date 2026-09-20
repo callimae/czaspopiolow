@@ -47,6 +47,7 @@
       {{ with site.GetPage "/mechanizmy" }}{{ if .RegularPages }}<a href="{{ .RelPermalink }}">{{ i18n "mechanisms" }}</a>{{ end }}{{ end }}
       {{ with site.GetPage "/narzedzia" }}{{ if .RegularPages }}<a href="{{ .RelPermalink }}">{{ i18n "tools" }}</a>{{ end }}{{ end }}
       {{ with site.GetPage "/o-blogu" }}<a href="{{ .RelPermalink }}">{{ i18n "about" }}</a>{{ end }}
+      {{ with site.GetPage "/pomoc" }}<a class="nav-help" href="{{ .RelPermalink }}">{{ i18n "help" }}</a>{{ end }}
       {{ $page := . }}
       {{ range site.Sites }}{{ if ne .Language.Lang $page.Language.Lang }}
         {{ $target := .Home }}

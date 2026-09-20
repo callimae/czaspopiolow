@@ -6,7 +6,7 @@ description: "O myślach, które wracają: dlaczego umysł trzyma się tego, co 
 Kolejnym mechanizmem, który opiszę jest efekt Zeigarnik. Został on odkryty i opisany przez Blumę Zeigarnik w 1927 roku. Zacznę od krótkiej anegdoty.
 
 Kelnerzy lepiej pamiętają osoby, które jeszcze nie uregulowały rachunku, od tych, które zapłaciły. I w momencie, gdy klient płaci, kelner o nim zapomina. 
-Rzeczywiste badania Zeigarnik wyglądały trochę inaczej - historia z kawiarni to legenda założycielska tych badań, a nie ich wynik. To, co było ważne, to to, że **niedokończone zostaje aktywne w głowie**. Podobno Ernest Hemingway miał w zwyczaju urywać swoje teksty w miejscu, gdzie wiedział co dalej pisać, żeby kolejnego dnia do nich wrócić i dalej pisać "na fali". To też anegdota, nie dane - ale dobrze oddaje mechanizm.
+Rzeczywiste badania Zeigarnik wyglądały trochę inaczej - historia z kawiarni to legenda założycielska tych badań, a nie ich wynik. To, co było ważne, to to, że **niedokończone zostaje aktywne w głowie**. Podobno Ernest Hemingway miał w zwyczaju urywać swoje teksty w miejscu, gdzie wiedział co dalej pisać, żeby kolejnego dnia do nich wrócić i pisać "na fali". To też anegdota, nie dane - ale dobrze oddaje mechanizm.
 Idzie za tym dużo więcej - efekt Zeigarnik może być dla nas zarówno przekleństwem, jak i wybawieniem. Dlaczego?
 
 ## Przekleństwo

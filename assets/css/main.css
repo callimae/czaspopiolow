@@ -163,6 +163,11 @@ h1 {
   color: var(--text);
 }
 
+/* Pomoc - zawsze widoczna, delikatnie wyróżniona akcentem */
+.site-nav a.nav-help {
+  color: var(--accent);
+}
+
 .theme-toggle {
   border: none;
   background: none;

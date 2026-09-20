@@ -1,0 +1,3 @@
+{{- /* Własny render linków: przepuszcza tel: (domyślny szablon Hugo wycina
+       nieznane protokoły jako ZgotmplZ). */ -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>

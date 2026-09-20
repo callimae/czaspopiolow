@@ -10,20 +10,20 @@ Rzeczywiste badania Zeigarnik wyglądały trochę inaczej - historia z kawiarni 
 Idzie za tym dużo więcej - efekt Zeigarnik może być dla nas zarówno przekleństwem, jak i wybawieniem. Dlaczego?
 
 ## Przekleństwo
-Ruminacje, natrętne myśli, zadręczanie się, pytania "a gdybym...", brzmi znajomo? Mają wspólne korzenie - nie kończą się, wracają, męczą. To są otwarte, "niedokończone", sprawy w naszej głowie. I nie ma na nie odpowiedzi - to wynika z ich otwartej konstrukcji. Odpowiedzią jest wrócenie do ciała, do czegoś co robimy, chociażby to było leżenie. Im szybciej, tym lepiej. Krucha homeostaza, jeśli taką w ogóle mamy w kryzysie, zostaje zniszczona w sekundy, kiedy zostajemy z tymi myślami. Podstawową technikę, jak sobie z tym radzić, opisałem w artykule [„ZONA"]({{< relref "/narzedzia/zona-kotwiczenie" >}}).
+Ruminacje, natrętne myśli, zadręczanie się, pytania "a gdybym...", brzmi znajomo? Mają wspólne korzenie - nie kończą się, wracają, męczą. To są otwarte, "niedokończone", sprawy w naszej głowie. I nie ma na nie odpowiedzi - to wynika z ich otwartej konstrukcji. Odpowiedzią jest powrót do ciała, do czegoś co robimy, chociażby to było leżenie. Im szybciej, tym lepiej. Krucha homeostaza, jeśli taką w ogóle mamy w kryzysie, zostaje zniszczona w sekundy, kiedy zostajemy z tymi myślami. Podstawową technikę, jak sobie z tym radzić, opisałem w artykule [„ZONA"]({{< relref "/narzedzia/zona-kotwiczenie" >}}).
 
 ## Ruminacje, zadręczanie się, zamartwianie
 To się domaga osobnego akapitu. Chociaż każdy mechanizm jest opisany oddzielnie, moje założenie jest takie - tutaj działa zarówno efekt Zeigarnik, jak i [efekt białego niedźwiedzia]({{< relref "/mechanizmy/efekt-bialego-niedzwiedzia" >}}). Dlatego ruminacje, zadręczanie się, zamartwianie są tak ciężkie w obsłudze. Otwarta pętla - efekt Zeigarnik - bywa dodatkowo wzmacniana przez to, że próbujemy o tym nie myśleć: tłumimy myśli i dochodzi do efektu odbicia.
 
 ## Wybawienie
-Możemy też wykorzystać ten mechanizm na naszą korzyść. Przy natłoku wspomnień - i to ważne - wspomnień, myśli, które nie są gdybaniem ani ruminacjami, możemy stworzyć okno żałobowe. Sytuacja jest prosta - planujemy, że np. dzisiaj o 19 pozwolimy sobie na przeżywanie myśli. Z ruminacjami i gdybaniem to nie przejdzie - to są otwarte konstrukcje i tam pomaga głównie powrót do rzeczywistości. Dlaczego to działa?
+Możemy też wykorzystać ten mechanizm na naszą korzyść. Przy natłoku wspomnień - i to ważne - wspomnień, myśli, które nie są gdybaniem ani ruminacjami, możemy stworzyć okno żałobowe. Sytuacja jest prosta - planujemy, że np. dzisiaj o 19 pozwolimy sobie na przeżywanie myśli. Z ruminacjami i gdybaniem to nie przejdzie - to są otwarte konstrukcje i tam pomaga głównie powrót do ciała. Dlaczego to działa?
 Badania Masicampo i Baumeistera pokazują, że samo zaplanowanie rzeczy działa na umysł jak domknięcie - stąd przerywa pętlę.
 
 ## W skrócie
 
-- Ruminacje, zadręczanie się, zamartwianie → wyjście do ciała
+- Ruminacje, zadręczanie się, zamartwianie → powrót do ciała
 - Wspomnienia, fakty → okno żałoby
-- Jeśli nie działa → wyjście do ciała
+- Jeśli nie działa → powrót do ciała
 
 ## Bibliografia
 

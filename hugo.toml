@@ -21,7 +21,7 @@ weight = 2
 [pagination]
 pagerSize = 10
 
-[markup.goldmark.extensions.typographer]
+[languages.pl.markup.goldmark.extensions.typographer]
 leftDoubleQuote = '&bdquo;'
 rightDoubleQuote = '&rdquo;'
 leftSingleQuote = '&sbquo;'

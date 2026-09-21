@@ -37,6 +37,6 @@ I understand you don't want to. Whatever it is. Do it with the reluctance. Make 
 
 Now, I'm sorry — I really am — repeat it on the same thought, at least three more times.
 
-That's the base. The branches — because not every thought is the same kind, and you don't say the same thing to all of them — and the variants for situations where four steps is too many, I'll cover in the next pieces.
+That's the base. The branches — because not every thought is the same kind, and you don't say the same thing to all of them — and the variants for situations where four steps is too many, I'll cover in the next pieces. One of those variants is already here: ["When you're barely holding on. I don't weigh much."]({{< relref "/narzedzia/postac" >}}).
 
 **Notice → Observe from outside → Track it in the body → Engage.**

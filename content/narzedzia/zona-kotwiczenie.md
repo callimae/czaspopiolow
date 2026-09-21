@@ -37,6 +37,6 @@ Rozumiem, że nie chcesz. Czegokolwiek. Zrób z niechęcią. Nawiąż kontakt z 
 
 Teraz, przykro mi - naprawdę - powtórz to na tej samej myśli, jeszcze co najmniej trzy razy.
 
-To jest podstawa. Rozgałęzienia - bo nie każda myśl jest tego samego rodzaju i nie do każdej mówi się to samo - oraz warianty na sytuacje, w których cztery kroki to za dużo, opiszę w kolejnych tekstach.
+To jest podstawa. Rozgałęzienia - bo nie każda myśl jest tego samego rodzaju i nie do każdej mówi się to samo - oraz warianty na sytuacje, w których cztery kroki to za dużo, opiszę w kolejnych tekstach. Jeden z takich wariantów już jest: ["Kiedy ledwo się trzymasz. Nie ważę wiele."]({{< relref "/narzedzia/postac" >}}).
 
 **Zauważ → Oddal się → Nawiąż kontakt z ciałem → Angażuj się**

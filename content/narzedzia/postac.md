@@ -1,7 +1,6 @@
 ---
 title: "Kiedy ledwo się trzymasz. Nie ważę wiele."
-date: 2026-09-06
-draft: true
+description: "Krótkie ćwiczenie na moment, w którym ledwo się trzymasz: ciężar na klatce piersiowej, dłoń na splocie słonecznym, mruczenie i dłuższy wydech."
 ---
 
 Dzień dobry! Dawnośmy się nie widzieli. Widzę, w jakim jesteś stanie, ledwo się trzymasz, czuję to i czuję, jak jest ciężko. Co z tym zrobisz?

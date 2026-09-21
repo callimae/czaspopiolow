@@ -35,7 +35,7 @@ Będąc z bólem, cierpieniem czy stratą, zwróć uwagę na swoje ciało. Wypro
 
 Rozumiem, że nie chcesz. Czegokolwiek. Zrób z niechęcią. Nawiąż kontakt z rzeczywistością. Jeśli coś robiłeś - wróć do tego. Nadal boli, ale wciąż masz swoje ręce, nogi, głowę i korpus.
 
-Teraz, przykro mi - naprawdę - powtórz to na tej samej myśli, jeszcze co najmniej trzy razy.
+Teraz, przykro mi - naprawdę - powtórz to na tej samej myśli, jeszcze co najmniej trzy razy. Trzy tutaj nie jest żadną złotą liczbą. Jak każda umiejętność, ta też wymaga powtórzeń.
 
 To jest podstawa. Rozgałęzienia - bo nie każda myśl jest tego samego rodzaju i nie do każdej mówi się to samo - oraz warianty na sytuacje, w których cztery kroki to za dużo, opiszę w kolejnych tekstach. Jeden z takich wariantów już jest: ["Kiedy ledwo się trzymasz. Nie ważę wiele."]({{< relref "/narzedzia/postac" >}}).
 

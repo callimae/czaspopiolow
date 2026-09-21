@@ -13,4 +13,4 @@ Maybe you'd pet me? I dragged myself all the way here for you. A warm hand on yo
 
 Do you hear? I'm purring. Breathe in that rhythm.
 
-Now watch me and breathe, make the exhale longer. And again. And again. Don't stop breathing like this.
+Now watch me and breathe, make the exhale longer. And again. And again. Again. Not perfectly. Just again.

@@ -13,4 +13,4 @@ Może byś mnie pogłaskał? Przytargałem się tu dla Ciebie. Ciepła dłoń na
 
 Słyszysz? Mruczę. Oddychaj w tym rytmie.
 
-Teraz obserwuj mnie i oddychaj, zrób dłuższy wydech. I jeszcze raz. I jeszcze raz. Nie przestawaj tak oddychać.
+Teraz obserwuj mnie i oddychaj, zrób dłuższy wydech. I jeszcze raz. I jeszcze raz. Jeszcze raz. Nie idealnie. Po prostu jeszcze raz.
